@@ -1,6 +1,6 @@
 git status
 git pull origin master
 git add .
-git commit -m 'Adding Exaple DataFrame and add some markdown of guide'
+git commit -m 'Create all csv files and nedd to create html report'
 git push origin master
 git status

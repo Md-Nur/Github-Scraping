@@ -1,7 +1,7 @@
 Repository_Name,Username,Stars,Repository_URL
 awesome-kubernetes,ramitsurana,11600.0,https://github.com/ramitsurana/awesome-kubernetes
 azure-quickstart-templates,Azure,10500.0,https://github.com/Azure/azure-quickstart-templates
-recommenders,microsoft,10200.0,https://github.com/microsoft/recommenders
+recommenders,microsoft,10300.0,https://github.com/microsoft/recommenders
 pulumi,pulumi,8900.0,https://github.com/pulumi/pulumi
 devops-exercises,bregman-arie,8500.0,https://github.com/bregman-arie/devops-exercises
 go-cloud,google,7800.0,https://github.com/google/go-cloud
@@ -26,6 +26,6 @@ komiser,mlabouardy,2600.0,https://github.com/mlabouardy/komiser
 azure-cli,Azure,2400.0,https://github.com/Azure/azure-cli
 openapi-directory,APIs-guru,2400.0,https://github.com/APIs-guru/openapi-directory
 azure-sdk-for-net,Azure,2400.0,https://github.com/Azure/azure-sdk-for-net
-mmlspark,Azure,2300.0,https://github.com/Azure/mmlspark
+mmlspark,Azure,2400.0,https://github.com/Azure/mmlspark
 MachineLearningNotebooks,Azure,2300.0,https://github.com/Azure/MachineLearningNotebooks
 SmartStoreNET,smartstore,2200.0,https://github.com/smartstore/SmartStoreNET

@@ -3,13 +3,13 @@ httpie,httpie,51000.0,https://github.com/httpie/httpie
 fzf,junegunn,37100.0,https://github.com/junegunn/fzf
 bat,sharkdp,27400.0,https://github.com/sharkdp/bat
 dive,wagoodman,26400.0,https://github.com/wagoodman/dive
-cheat.sh,chubin,25600.0,https://github.com/chubin/cheat.sh
-sherlock,sherlock-project,25400.0,https://github.com/sherlock-project/sherlock
+cheat.sh,chubin,25800.0,https://github.com/chubin/cheat.sh
+sherlock,sherlock-project,25500.0,https://github.com/sherlock-project/sherlock
 ripgrep,BurntSushi,25400.0,https://github.com/BurntSushi/ripgrep
 angular-cli,angular,24600.0,https://github.com/angular/angular-cli
 cli,cli,23700.0,https://github.com/cli/cli
 cobra,spf13,21800.0,https://github.com/spf13/cobra
-awesome-shell,alebcay,21500.0,https://github.com/alebcay/awesome-shell
+awesome-shell,alebcay,21600.0,https://github.com/alebcay/awesome-shell
 lazygit,jesseduffield,20100.0,https://github.com/jesseduffield/lazygit
 python-fire,google,19200.0,https://github.com/google/python-fire
 ava,avajs,19100.0,https://github.com/avajs/ava
@@ -28,4 +28,4 @@ ignite,infinitered,12600.0,https://github.com/infinitered/ignite
 git-history,pomber,12500.0,https://github.com/pomber/git-history
 nnn,jarun,11600.0,https://github.com/jarun/nnn
 click,pallets,11000.0,https://github.com/pallets/click
-asdf,asdf-vm,10900.0,https://github.com/asdf-vm/asdf
+asdf,asdf-vm,11000.0,https://github.com/asdf-vm/asdf

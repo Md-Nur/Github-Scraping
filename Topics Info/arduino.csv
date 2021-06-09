@@ -27,5 +27,5 @@ splitflap,scottbez1,1700.0,https://github.com/scottbez1/splitflap
 RF24,nRF24,1700.0,https://github.com/nRF24/RF24
 Arduino_Core_STM32,stm32duino,1500.0,https://github.com/stm32duino/Arduino_Core_STM32
 esp8266-oled-ssd1306,ThingPulse,1500.0,https://github.com/ThingPulse/esp8266-oled-ssd1306
-blinker-library,blinker-iot,1300.0,https://github.com/blinker-iot/blinker-library
 TFT_eSPI,Bodmer,1300.0,https://github.com/Bodmer/TFT_eSPI
+blinker-library,blinker-iot,1300.0,https://github.com/blinker-iot/blinker-library

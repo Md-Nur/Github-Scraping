@@ -1,12 +1,12 @@
 Repository_Name,Username,Stars,Repository_URL
-the-art-of-command-line,jlevy,90800.0,https://github.com/jlevy/the-art-of-command-line
+the-art-of-command-line,jlevy,91100.0,https://github.com/jlevy/the-art-of-command-line
 nvm,nvm-sh,49200.0,https://github.com/nvm-sh/nvm
 fzf,junegunn,37100.0,https://github.com/junegunn/fzf
 pure-bash-bible,dylanaraps,27100.0,https://github.com/dylanaraps/pure-bash-bible
 dotfiles,mathiasbynens,26500.0,https://github.com/mathiasbynens/dotfiles
 shellcheck,koalaman,25000.0,https://github.com/koalaman/shellcheck
 acme.sh,acmesh-official,22400.0,https://github.com/acmesh-official/acme.sh
-awesome-shell,alebcay,21500.0,https://github.com/alebcay/awesome-shell
+awesome-shell,alebcay,21600.0,https://github.com/alebcay/awesome-shell
 awesome-cheatsheets,LeCoupa,20500.0,https://github.com/LeCoupa/awesome-cheatsheets
 starship,starship,17100.0,https://github.com/starship/starship
 linux-command,jaywcjlove,16100.000000000002,https://github.com/jaywcjlove/linux-command
@@ -23,7 +23,7 @@ Bash-Snippets,alexanderepstein,8300.0,https://github.com/alexanderepstein/Bash-S
 TabNine,codota,8200.0,https://github.com/codota/TabNine
 mal,kanaka,7900.0,https://github.com/kanaka/mal
 direnv,direnv,7500.0,https://github.com/direnv/direnv
-awesome-cheatsheets,skywind3000,7200.0,https://github.com/skywind3000/awesome-cheatsheets
+awesome-cheatsheets,skywind3000,7300.0,https://github.com/skywind3000/awesome-cheatsheets
 openvpn-install,angristan,6400.0,https://github.com/angristan/openvpn-install
 enquirer,enquirer,6000.0,https://github.com/enquirer/enquirer
 Gogh,Mayccoll,5900.0,https://github.com/Mayccoll/Gogh

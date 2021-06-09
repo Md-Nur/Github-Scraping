@@ -1,7 +1,7 @@
 Repository_Name,Username,Stars,Repository_URL
-electron,electron,93400.0,https://github.com/electron/electron
+electron,electron,93700.0,https://github.com/electron/electron
 mkcert,FiloSottile,30400.0,https://github.com/FiloSottile/mkcert
-playwright,microsoft,24400.0,https://github.com/microsoft/playwright
+playwright,microsoft,24500.0,https://github.com/microsoft/playwright
 octotree,ovity,21300.0,https://github.com/ovity/octotree
 nightmare,segmentio,18900.0,https://github.com/segmentio/nightmare
 linux-command,jaywcjlove,16100.000000000002,https://github.com/jaywcjlove/linux-command
@@ -9,7 +9,7 @@ bypass-paywalls-chrome,iamadamdev,15800.0,https://github.com/iamadamdev/bypass-p
 chromeless,prisma-archive,13300.0,https://github.com/prisma-archive/chromeless
 headless-recorder,checkly,13000.0,https://github.com/checkly/headless-recorder
 WebFundamentals,google,12100.0,https://github.com/google/WebFundamentals
-react-color,casesandberg,9700.0,https://github.com/casesandberg/react-color
+react-color,casesandberg,9800.0,https://github.com/casesandberg/react-color
 chrome-extensions-samples,GoogleChrome,8300.0,https://github.com/GoogleChrome/chrome-extensions-samples
 uBlock,uBlock-LLC,8000.0,https://github.com/uBlock-LLC/uBlock
 ext-saladict,crimx,7400.0,https://github.com/crimx/ext-saladict
